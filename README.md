@@ -2,8 +2,6 @@
 
 The .NET MAUI Switch control provides an efficient way to select states based on the toggled value.
 
-![.NET MAUI Switch](https://cdn.syncfusion.com/nuget-readme/maui/net_maui_switch.gif)
-
 [Features Overview](https://www.syncfusion.com/maui-controls/maui-switch) | [Docs](https://help.syncfusion.com/maui/switch/overview) | [Online Demo](https://github.com/syncfusion/maui-demos) | [Support](https://support.syncfusion.com/support/tickets/create) | [Forums](https://www.syncfusion.com/forums/maui) | [Feedback](https://www.syncfusion.com/feedback/maui)
 
 ### Adding the .NET MAUI Switch control
